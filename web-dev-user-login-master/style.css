@@ -1,0 +1,54 @@
+html{
+    background-image: url("images/background.jpg");
+    background-size:cover;
+} 
+
+body{
+    background-color: rgba(255, 255, 255, .8);
+    width: 600px;
+    margin: 30px auto;
+    border-radius: 25px;
+    border: 2px solid purple;
+    font-family: "Montserrat";
+    padding: 0px 0px 20px 0px;
+}
+
+img{
+    width: 400px;
+    padding: 30px 0 20px 0;
+}
+
+hr{
+    width: 285px;
+}
+
+.LoginB{
+    padding: 5px 20px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.div2{
+    padding: 40px 0px 25px 0px;
+    text-align: center;
+    color: white;
+    background-color: purple;
+    
+}
+
+.Forget{
+    color: white;
+    font-family: "Georgia";
+}
+
+.image{
+    padding: 20px 5px 0px 5px;
+    width: 50px;
+    height: 50px;
+}
+
+.Forget:hover{
+    color: yellow;
+    text-decoration: underline;
+}
